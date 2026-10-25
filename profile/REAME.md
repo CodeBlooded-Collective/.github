@@ -12,7 +12,7 @@ A multidisciplinary hackathon team. We build across **cybersecurity, web develop
 | --- | --- |
 | **Cybersec** | CTFs and crackmes |
 | **WebD** | Backend-leaning web apps with React, Node, Express, MongoDB, Prisma and MySQL |
-| **FOSS** | Open-source practice through the FOSS wing at GeekHaven, IIITA |
+| **FOSS** | Build in open, under pressure  |
 | **EDA** | Electronic design automation |
 | **ML/AI** | Classical ML from scratch, and applied AI projects |
 
